@@ -1,0 +1,139 @@
+/* Medium Layout: 1280px. */
+@media only screen and (min-width: 992px) and (max-width: 1200px) { 
+
+}
+
+@media (min-width: 768px) and (max-width: 980px) { 
+
+}
+
+@media (max-width: 768px) { 
+
+
+}
+@media (max-width: 480px) { 
+/*==========Header and Slider==========*/
+strong{
+	font-size:30px
+}
+.middle{
+	top:24%
+}
+.middle p{
+	font-size:14px
+}
+.word{
+	font-size:40px
+}
+.fa-forward {
+    font-size: 40px !important;
+}
+.hvr-bounce-to-top{
+	margin-bottom:10px
+}
+/*==========End Header and Slider==========*/
+
+/*===========Contact==============*/
+.contact-section .col-md-6 {
+    width: 100%;
+}
+#inputEmail4 {
+    width: 106%;
+    font-size: 13px;
+    margin-left: -15px;
+    width: 108%;
+}
+#inputName4 {
+    width: 106%;
+    font-size: 13px;
+    margin-left: -15px;
+    width: 108%;
+}
+.btn-submit-button{
+	width:100%
+}
+/*===========End Contact==============*/
+}
+@media (max-width:320px) { 
+
+/*==========Header and Slider==========*/
+strong{
+	font-size:30px
+}
+.middle{
+	top:24%
+}
+.middle p{
+	font-size:14px
+}
+.word{
+	font-size:40px
+}
+.fa-forward {
+    font-size: 40px !important;
+}
+.hvr-bounce-to-top{
+	margin-bottom:10px
+}
+/*==========End Header and Slider==========*/
+/*===========Contact==============*/
+.contact-section .col-md-6 {
+    width: 100%;
+}
+#inputEmail4 {
+    width: 106%;
+    font-size: 13px;
+    margin-left: -15px;
+    width: 108%;
+}
+#inputName4 {
+    width: 106%;
+    font-size: 13px;
+    margin-left: -15px;
+    width: 108%;
+}
+.btn-submit-button{
+	width:100%
+}
+}
+@media (max-width: 900px) { 
+}
+@media (max-width: 450px) { 
+
+}
+
+/* Medium Layout: 1280px. */
+@media only screen and (min-width: 992px) and (max-width: 1200px) { 
+
+}
+
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) { 
+
+
+}
+
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) { 
+/*===========Contact==============*/
+.contact-section .col-md-6 {
+    width: 100%;
+}
+#inputEmail4 {
+    width: 104%;
+    font-size: 13px;
+    margin-left: -15px;
+}
+#inputName4 {
+    width: 104%;
+    font-size: 13px;
+    margin-left: -15px;
+}
+.btn-submit-button{
+	width:100%
+}
+form{
+	margin-top:48px
+}
+}
+
